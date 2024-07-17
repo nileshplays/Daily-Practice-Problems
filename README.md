@@ -1,5 +1,5 @@
 # Daily-Practice-Problems
 <br>
-Author : Nilesh Sarkar
+Author  : Nilesh Sarkar
 <br>
-Date : 17-07-2024
+Date    : 17-07-2024
