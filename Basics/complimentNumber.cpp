@@ -8,6 +8,7 @@ public:
         for(long i= 1 ; i<=num ; i*=2){
             num = num^i;
         }
+        
         return num;
 
         /*
