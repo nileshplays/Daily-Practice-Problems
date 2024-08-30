@@ -24,7 +24,7 @@ public:
         }
         
         int component=0;
-        for (auto& [i, _] : RC) {
+        for (auto& [i] : RC) {
             if (viz[i] == 0) { 
                 dfs(i); 
                 component++;
