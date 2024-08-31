@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*
 class Solution {
 public:    
     unordered_map<short, vector<short>> RC;
@@ -43,3 +44,5 @@ auto init = []() {
     cout.tie(nullptr);
     return 'c';
 }();
+
+*/
